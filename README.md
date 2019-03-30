@@ -1,2 +1,2 @@
-# airfa
+# AIRFA
 AIRFA | AI Running Form Assistant
